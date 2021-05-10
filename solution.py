@@ -1,5 +1,4 @@
 # Solution in python
-
 def addUpTo(n):
     return n * (n + 1) / 2
 
